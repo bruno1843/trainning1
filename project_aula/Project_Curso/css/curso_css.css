@@ -1,0 +1,107 @@
+/* side-menu */
+.sideMenuList ul li{
+	font-size: 2em;
+	border-bottom: 1px dotted black;
+	text-shadow: 2px 1px #000000;
+}
+.sideMenuList ul li a:hover{
+	color:#737373;
+	opacity: 0.8;
+}
+
+/*icons*/
+
+.iconMcss div a{
+	text-decoration:none;
+	margin-left: 0.5em;
+	margin-bottom: 1em;
+	font-size: 1.5em;
+}
+
+.bi-instagram {
+   background: -webkit-linear-gradient(#405de6, #fd1d1d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bi-facebook{
+	color: blue;
+}
+
+.bi-twitter{
+	color:#33ccff;
+}
+
+.bi-youtube{
+	color:red;
+}
+
+/* overview */
+.overviewVideo{
+	width:475px;
+	height:325px;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media(min-width:661px) { 
+	.overviewVideo{
+	width:675px;
+	height:525px;
+	}
+ }
+
+@media(max-width:465px) { 
+	.overviewVideo{
+	width:275px;
+	height:225px;
+	}
+ }
+
+/* overview ICON login navbar */
+	.overviewVideo{
+		left:300px;
+	}
+		 
+	@media(min-width:661px) { 
+		.overviewVideo{
+		left:500px;
+		}
+	 }
+	 
+	 @media(max-width:2190px) { 
+		.overviewVideo{
+		left:400px;
+		}
+	 }
+	 
+	 @media(max-width:1773px) { 
+		.overviewVideo{
+		left:300px;
+		}
+	 }
+
+	 @media(max-width:1216px) { 
+		.overviewVideo{
+		left:200px;
+		}
+	 }
+
+
+	@media(max-width:465px) { 
+		.overviewVideo{
+		left:150px;
+		}
+	 }
+
+	@media(max-width:365px) { 
+		.overviewVideo{
+		left:120px;
+		}
+	 }
+	 
+	 @media(max-width:300px) { 
+		.overviewVideo{
+		left:90px;
+		}
+	 }
+
