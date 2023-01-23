@@ -1,0 +1,24 @@
+container-fluid(propaganda in(middle is good)( not in top) (just botton to make the footers sites)
+
+-------------------------------------------
+
+Sites institucionais: Esses sites servem para apresentar uma empresa ou organização ao público e fornecer informações básicas sobre sua história, serviços e produtos.
+
+Blogs: Esses sites são usados para publicar conteúdo regularmente, como artigos, notícias e opiniões.
+
+Lojas virtuais: Esses sites permitem que os usuários comprem produtos ou serviços diretamente online.
+
+Portfólios: Esses sites são criados para mostrar trabalhos anteriores de um indivíduo ou empresa e para atrair novos clientes.
+
+Redes sociais: Esses sites permitem que os usuários criem perfis, compartilhem conteúdo e se conectem uns com os outros.
+
+Sites de notícias: Esses sites fornecem notícias e informações atualizadas sobre eventos e tendências.
+
+Sites de entretenimento: Esses sites oferecem jogos, vídeos e outros tipos de entretenimento para os usuários.
+
+Sites de educação: Esses sites oferecem cursos, tutoriais e outros tipos de recursos educacionais para os usuários.
+
+Esses são alguns dos tipos de websites mais comuns, mas existem muitos outros tipos também.
+
+
+
